@@ -12,8 +12,6 @@ www.youtube.com/@gamingworld0110
 
 🌌 Responsive design with a retro-themed, neon-styled aesthetic.
 
-🎧 Audio support for ambient gaming background.
-
 🕹️ Custom navigation bar and visual effects to enhance interactivity.
 
 🧱 Tech Stack
