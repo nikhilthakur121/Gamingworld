@@ -3,6 +3,7 @@ Gaming World is a beginner-friendly front-end project designed to showcase YouTu
 
 🔗 Live Preview
 Visit the Channel
+www.youtube.com/@gamingworld0110
 
 📁 Features
 🎥 Embedded YouTube videos and shorts categorized into sections.
