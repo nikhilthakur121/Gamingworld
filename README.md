@@ -2,7 +2,6 @@
 Gaming World is a beginner-friendly front-end project designed to showcase YouTube gaming content with a vibrant, retro-gaming-inspired UI. Built using HTML and CSS, this website serves as a landing page for a gaming channel featuring gameplay videos, shorts, and interactive elements.
 
 🔗 Preview
-Visit the page
 https://nikhilthakur121.github.io/Gamingworld/
 
 📁 Features
