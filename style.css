@@ -29,7 +29,7 @@
     padding: 10px;
     display: flex;
     align-items: center;
-    font-size:1.2rem;
+    font-size:1rem;
     font-weight: bold;
     color: #ff4ecb;
     font-family:"Oswald", sans-serif;   
@@ -89,7 +89,6 @@ main {
 .container h1{
     font-size: 6rem;
     color: #ff4ecb;
-    margin-bottom: 1rem;
     text-shadow: 2px 2px 4px #000;
 }
 .container h1 span{
@@ -563,6 +562,14 @@ body{
     background-color: #ff4ecb;
     color: blue;
   }
+  .container{
+    background-image: url(images/il_fullxfull.5321081475_apn6.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10px;
+  }
   .container h1 {
     font-size: 1.8rem;
     width: 500px;
@@ -572,10 +579,9 @@ body{
   .bolder {
     font-size: 0.6rem;
   }
-
   .titleimg {
-    height: 4rem;
-    width: 4rem;
+    height: 5rem;
+    width: 5rem;
   }
   .wrapper {
     position: relative;
