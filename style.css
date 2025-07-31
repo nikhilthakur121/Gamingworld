@@ -5,15 +5,16 @@
 }
 .topnav{
     background-color:rgb(36, 0, 53) ;
-    overflow: hidden;
+    display:flex;
+    height: 40px;
+    align-items: center;
 }
 .topnav a{
-    float: left;
     color: #4ecfff;
+    padding: 10px;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 14px;
     font-family:"Oswald", sans-serif;
 }
 .topnav a:hover {
@@ -25,18 +26,17 @@
     color:blue;
 }
 .topnav a.active {
-    background-image:url(images/67278.jpg) ; 
-    background-size: 70%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    font-size:1.2rem;
+    font-weight: bold;
     color: #ff4ecb;
     font-family:"Oswald", sans-serif;   
 }
 strong{
     font-size:1.1rem ;
     font-weight: bolder;
-}
-.home{
-    font-size:0.9rem ;
-    
 }
 .wrapper {
     position: relative;
@@ -547,16 +547,14 @@ body{
     font-size: 9px;
     text-align: center;
     text-decoration: none;
-    flex: 1;
     color: #4ecfff;
     font-family: "Oswald", sans-serif;
   }
    .topnav a.active {
-    background-image: url(images/67278.jpg);
-    background-size: 60%;
+    font-size: 13px;
     color: #ff4ecb;
     height: 38px;
-    width: 90px;
+    width: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -578,7 +576,6 @@ body{
   .titleimg {
     height: 4rem;
     width: 4rem;
-    align-self:right;
   }
   .wrapper {
     position: relative;
