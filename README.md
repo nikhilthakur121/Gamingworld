@@ -7,6 +7,8 @@ https://nikhilthakur121.github.io/Gamingworld/
 📁 Features
 🎥 Embedded YouTube videos and shorts categorized into sections.
 
+🔧 The project is fully responsive and built with media queries to ensure a smooth and consistent experience across all screen sizes from mobile phones📱 to large desktops.💻
+
 🚀 Animated space-invader-style rocket with laser effect on hover.
 
 🌌 Responsive design with a retro-themed, neon-styled aesthetic.
