@@ -1,9 +1,9 @@
 🎮 Gaming World - A YouTube Gaming hub Website
 Gaming World is a beginner-friendly front-end project designed to showcase YouTube gaming content with a vibrant, retro-gaming-inspired UI. Built using HTML and CSS, this website serves as a landing page for a gaming channel featuring gameplay videos, shorts, and interactive elements.
 
-🔗 Live Preview
-Visit the Channel
-www.youtube.com/@gamingworld0110
+🔗 Preview
+Visit the page
+https://nikhilthakur121.github.io/Gamingworld/
 
 📁 Features
 🎥 Embedded YouTube videos and shorts categorized into sections.
